@@ -1,0 +1,7 @@
+C:\Users\Максим\source\repos\second-homework\second-homework\bin\Debug\second-homework.exe.config
+C:\Users\Максим\source\repos\second-homework\second-homework\bin\Debug\second-homework.exe
+C:\Users\Максим\source\repos\second-homework\second-homework\bin\Debug\second-homework.pdb
+C:\Users\Максим\source\repos\second-homework\second-homework\obj\Debug\second-homework.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\second-homework\second-homework\obj\Debug\second-homework.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\second-homework\second-homework\obj\Debug\second-homework.exe
+C:\Users\Максим\source\repos\second-homework\second-homework\obj\Debug\second-homework.pdb
